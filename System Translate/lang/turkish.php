@@ -2372,8 +2372,8 @@ $_LANG['edit'] = "Düzenle";
 $_LANG['thankYou'] = "Teşekkürler";
 $_LANG['na'] = "N/A";
 
-$_LANG['domainGracePeriodFeeInvoiceItem'] = "Domain Renewal Fee in Grace Period for :domainName";
-$_LANG['domainRedemptionPeriodFeeInvoiceItem'] = "Domain Renewal Fee in Redemption Grace Period for :domainName";
+$_LANG['domainGracePeriodFeeInvoiceItem'] = ":domainName için Ek Sürede Alan Adı Yenileme Ücreti";
+$_LANG['domainRedemptionPeriodFeeInvoiceItem'] = ":domainName için Kullanım Süresinde Alan Adı Yenileme Ücreti";
 $_LANG['gracePeriod'] = "Grace Period";
 $_LANG['redemptionPeriod'] = "Redemption Period";
 $_LANG['domainsExpiringSoon'] = "Expiring Soon";
