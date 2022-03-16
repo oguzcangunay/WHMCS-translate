@@ -2485,13 +2485,13 @@ $_LANG['store']['emailServices']['manageService'] = "SpamExperts Denetim Masası
 
 $_LANG['noDomain'] = "Alan adı Yok";
 
-$_LANG['upgradeService']['serviceBeingUpgraded'] = "Service being upgraded";
-$_LANG['upgradeService']['chooseNew'] = "Choose New Product/Plan";
-$_LANG['upgradeService']['currentProduct'] = "Your Current Product";
-$_LANG['upgradeService']['recommended'] = "Recommended";
-$_LANG['upgradeService']['select'] = "Select";
+$_LANG['upgradeService']['serviceBeingUpgraded'] = "Hizmet yükseltiliyor";
+$_LANG['upgradeService']['chooseNew'] = "Yeni Ürün/Plan Seçin";
+$_LANG['upgradeService']['currentProduct'] = "Mevcut Ürününüz";
+$_LANG['upgradeService']['recommended'] = "Önerilen";
+$_LANG['upgradeService']['select'] = "Seç";
 
-$_LANG['feeds']['itemsInBasket'] = "You have <b>:count</b> items in your basket";
+$_LANG['feeds']['itemsInBasket'] = "Sepetinizde <b>:count</b> Adet Ürün Bulunmakta";
 
 $_LANG['validation']['accepted'] = "The :attribute must be accepted.";
 $_LANG['validation']['active_url'] = "The :attribute is not a valid URL.";
